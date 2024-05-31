@@ -1,0 +1,10 @@
+{
+  "@@locale": "du",
+  "markAllRead": "Mark all read",
+  "notifications": "Notifications",
+  "featured": "Featured",
+  "latestNews": "Latest news",
+  "today": "Today",
+  "daysAgo": "{count, plural, one{day ago} few{days ago} many{days ago} other{days ago}}",
+  "monthsAgo": "{count, plural, one{month ago} few{months ago} many{months ago} other{months ago}}"
+}
